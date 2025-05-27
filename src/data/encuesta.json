@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "Cristian",
+    "pregunta": "¿Película favorita?",
+    "respuesta": "El viaje de Chihiro"
+  },
+  {
+    "nombre": "Cristian",
+    "pregunta": "¿Libro favorito?",
+    "respuesta": "Cien años de soledad"
+  },
+  {
+    "nombre": "Cristian",
+    "pregunta": "¿Lenguaje de programación favorito?",
+    "respuesta": "JavaScript"
+  },
+  {
+    "nombre": "Cristian",
+    "pregunta": "¿Juego favorito?",
+    "respuesta": "Zelda"
+  },
+  {
+    "nombre": "Cristian",
+    "pregunta": "¿Qué te motivó a estudiar desarrollo web?",
+    "respuesta": "Crear cosas desde cero"
+  },
+  {
+    "nombre": "Heber",
+    "pregunta": "¿Película favorita?",
+    "respuesta": "Matrix"
+  },
+  {
+    "nombre": "Heber",
+    "pregunta": "¿Libro favorito?",
+    "respuesta": "1984"
+  },
+  {
+    "nombre": "Heber",
+    "pregunta": "¿Lenguaje de programación favorito?",
+    "respuesta": "Python"
+  },
+  {
+    "nombre": "Heber",
+    "pregunta": "¿Juego favorito?",
+    "respuesta": "Minecraft"
+  },
+  {
+    "nombre": "Heber",
+    "pregunta": "¿Qué te motivó a estudiar desarrollo web?",
+    "respuesta": "Automatizar tareas"
+  },
+  {
+    "nombre": "Eli",
+    "pregunta": "¿Película favorita?",
+    "respuesta": "Amélie"
+  },
+  {
+    "nombre": "Eli",
+    "pregunta": "¿Libro favorito?",
+    "respuesta": "Rayuela"
+  },
+  {
+    "nombre": "Eli",
+    "pregunta": "¿Lenguaje de programación favorito?",
+    "respuesta": "Java"
+  },
+  {
+    "nombre": "Eli",
+    "pregunta": "¿Juego favorito?",
+    "respuesta": "The Sims"
+  },
+  {
+    "nombre": "Eli",
+    "pregunta": "¿Qué te motivó a estudiar desarrollo web?",
+    "respuesta": "Quiero trabajar remoto"
+  },
+  {
+    "nombre": "Agostina",
+    "pregunta": "¿Película favorita?",
+    "respuesta": "Her"
+  },
+  {
+    "nombre": "Agostina",
+    "pregunta": "¿Libro favorito?",
+    "respuesta": "Sapiens"
+  },
+  {
+    "nombre": "Agostina",
+    "pregunta": "¿Lenguaje de programación favorito?",
+    "respuesta": "C#"
+  },
+  {
+    "nombre": "Agostina",
+    "pregunta": "¿Juego favorito?",
+    "respuesta": "Stardew Valley"
+  },
+  {
+    "nombre": "Agostina",
+    "pregunta": "¿Qué te motivó a estudiar desarrollo web?",
+    "respuesta": "Es creativo y lógico al mismo tiempo"
+  }
+]
